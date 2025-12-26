@@ -13,11 +13,3 @@ public class Main {
         window.setVisible(true);
     }
 }
-class guy {
-    double x;
-    double y;
-    guy(double x, double y) {
-        this.x = x;
-    }
-
-}
